@@ -1,0 +1,19 @@
+public = tudo o que é mostrado para o usuario final.
+src = todo codigo da aplicação.
+package.json = todas as dependencias do nosso project.
+
+
+npm start = starta a aplicação.
+
+************************************** ESTRUTURA REACT **************************
+
+Na pasta components literalmente vai todos os componentes, em comum das páginas como 
+exemplo temos o header que acompanha todas as páginas do projeto.
+
+A pasta pages, tem as páginas do nosso projeto, e como ela vai se ligar com a api e retornar os dados.
+
+Services terá as api's consumidas ao longo do projeto.
+
+As routes são as rotas que nosso projeto terá, cada rota consome uma pagina.
+
+A app seria o nosso "front" ele vai receber as rotas e todos os componentes.
